@@ -1,0 +1,9 @@
+{
+  "name": "meteor-apollo-react-auth",
+  "version": "0.0.1",
+  "description": "Auth views for Meteor with Apollo GraphQL",
+  "main": "index.js",
+  "repository": "https://github.com/orionsoft/meteor-apollo-react-auth",
+  "author": "nicolaslopezj",
+  "license": "MIT"
+}
